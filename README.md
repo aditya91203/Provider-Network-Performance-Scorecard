@@ -7,8 +7,6 @@ across quality, cost, and network adequacy — identifying high-value
 providers, specialty coverage gaps, and geographic performance 
 patterns using publicly available CMS data.
 
-## Live Dashboard
-[View on Tableau Public](#) ← paste your Tableau Public link here
 
 ## Business Question
 Which providers deliver the best patient outcomes at the lowest cost, 
